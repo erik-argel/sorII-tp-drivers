@@ -117,10 +117,6 @@ clean:
   
 ```
 
-Carpeta char_device:
-
-![imagenCDHW](imagenes/noexist.png)
-
 Para compilara el codigo de nuestro device se utilizara el comando:
 
 ```shell
